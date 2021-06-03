@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition vnto his Excellencie, Sir Thomas Fairfax, occasioned by the publishing of the late remonstrance. / By a number of well-wishers to truth and peace.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90618</idno><idno type="EEBO-CITATION">99862347</idno>
+  <idno type="VID">114504</idno>
+  <idno type="EEBO-PROQUEST">2240902164</idno>
+  
+            <idno type="STC">Wing P1862</idno>
+            <idno type="STC">Thomason E404_24</idno>
+            <idno type="STC">ESTC R201858</idno>
+            <idno type="PROQUEST">99862347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862347e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114504)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition vnto his Excellencie, Sir Thomas Fairfax, occasioned by the publishing of the late remonstrance. / By a number of well-wishers to truth and peace.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term type="corporate_name">England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="petition">
+            <pb facs="tcp:114504:1"/>
+            <p>A PETITION Vnto his Excellencie, Sir THOMAS FAIRFAX, Occasioned by the publishing of the late REMONSTRANCE.</p>
+            <p>By a number of well-wishers to Truth and Peace.</p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114504:2"/>
+            <pb n="1" facs="tcp:114504:2"/>
+            <head>
+               <hi>A Petition to his Excellency Sir</hi> Thomas Fairefax.</head>
+            <opener>
+               <salute>May it please your Excellency:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Roman, though his ambition of Conque<g ref="char:EOLhyphen"/>ring had no Horizon, yet he used to triumph more (as multitudes of examples might bee produced) at the composing of an Intestine War, then for any new acquest whatsoever; and though he was a great martiall man, and loved fighting aswell as any other, yet his maxime was, <hi>That no peace could be so bad, but it was preferrable to the best war:</hi> It seemes the Italian his Successor, retaines the same Genius to this day, by the late peace (notwithstanding the many knots that were in the thing) for although fix absolute Princes, were interressed in the quarrell, and that they had all just pretences, and were heated, and heightned in their designes, yet rather then they would dilaniate the entrails of their owne mother, (fayre Italy) they met halfe way, and complied with one ano<g ref="char:EOLhyphen"/>ther, in a gallant kinde of freedome, every one contentedly b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aring his share in some inconvenience. Your Excellency hath beene the rod of iron, wherewith God hath bruised and broken the adverse party: Oh may you proove also the sove<g ref="char:EOLhyphen"/>reigne Physitian of this Isle, to powre oyle into her wounds (and under God) bee her happy restorer to her former health; all which we feare our selves, not yet worthy to behold; for<g ref="char:EOLhyphen"/>asmuch as to our infinite griefe, we behold even the rocke of our defence rent in twaine, and the tower of our strength (un<g ref="char:EOLhyphen"/>der<note place="margin">The two Houses of Parlia<g ref="char:EOLhyphen"/>ment now divided.</note> God) tottering, and almost ready to fall, and that which we erected for our preservation, likely now to proove our ru<g ref="char:EOLhyphen"/>ine; your Excellency therefore may please to consider, that this Schisme in the body representative (cannot but without timely prevention) prove the ruine both of the representators and the represented, and while there is this clashing, I beseech
+<pb n="2" facs="tcp:114504:3"/> your Excellency, and your Counsell, to consider of the misfor<g ref="char:EOLhyphen"/>tune that befell the flock<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of sheepe and the bell-weather; whereof the first fed in a Common, the latter in an Inclosure; and thinking to breake into one anothers pastu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and being to passe over a narrow bridge which served them, they met in the middle, and justled one another so long, till they both fell into the ditch. God Almighty direct your Excellency and Counsell in all your consultations and undertakings, and send a happy issue of these troubles; in the meane time I hope it is far from your Excellencies thought, as some would amuse the world, that you intend by force to settle Religion; your Excellency, I am consident, knowes well that the sacred comforter which inspires his Embassadours, useth to descend in forme of a dove, not in the likenesse of a devouring vulture; and he that brings him downe so, may be sayd to sin against the Holy Ghost, to beat Religion into the braines with a pole-axe, is to make a Molech of the Messias, and to off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r him victims of humane bloud; true it was, that ere this Parliament some of the chief<g ref="char:EOLhyphen"/>est Church Governours, could not be content to walke upon the battlements of the Church, but they must put themselves upon stilts, and thence mount up to the turrets of civill policy; some Preachers grow to be meer parasites, some to the Court▪ some to the Country, some would have nothing in their mouths but prer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gative, others nothing but priviledge, some would give the Crowne all, some nothing at all, some to feed zeale, would famish the understanding, others to feast the understan<g ref="char:EOLhyphen"/>ding and tickle the eare with Essayes and flourishes of Rheto<g ref="char:EOLhyphen"/>ricke, would quite starve the soule of her true food: but is this evill taken away, or if it be is it not as if one Tyrant were re<g ref="char:EOLhyphen"/>moved, and another far more inexorable set up? The world is now come to that passe, that the Taylor and Shoomaker, may cut out what Religion they please, the Vintner and Tapster may broach what Religion they please, the Druggist and Apo<g ref="char:EOLhyphen"/>thecary may mingle her as they please, the Haberdasher may put her upon what block he pleases, the Armourer and Cutler may furbush her as they please, the Dyer may put what colour, the P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inter may put what face upon her he please, the Dra<g ref="char:EOLhyphen"/>per
+<pb n="3" facs="tcp:114504:3"/> and Mercer may measure her as they please, the Weaver may cast her upon what Loome he please, the Boat-swaine and Mariner may bring her to what Docke they please, the Barber may trimme her as he please, the Gardner may lop her as hee please, the Blacke-smith may forge wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Religion hee please, and every Artizan according to his profession and fancy, may forme her as he please: The Pulpits now in some places are become Beacons, and in lieu of lights, the Churches are full of firebrands; every caprichio of the braine, is tearmed Tender<g ref="char:EOLhyphen"/>nesse of Conscience▪ which well ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mined, is nothing but some franticke fancy, or frenzy rather, of some shallow braind sciolist; and whereas some have beene sayd to run mad with excesse of knowledge, many in this age grow mad with too much ignorance; it stands upon Record in Story, that when the Norman had taken firme footing in this Isle, he did demo<g ref="char:EOLhyphen"/>lish many Churches, and Chappels in new Forrest, to make it fitter for his pleasure, and venerie; but amongst other judge<g ref="char:EOLhyphen"/>ments, that fell upon this sacriledge one was, that tame fowle grew wilde, but now not fowle, but folke and people grow wild in many places, they would not worry one another in that wolvish belluine manner else, they would not cut their owne throats, hang, drowne, and doe themselves away in such a desperate sort, which is now growne so common, that selfe murther is scarce accounted any newes; Your Excellency is not exalted to this high pitch of honour, only to dazell men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eyes, with your lustre, but to restraine such and the like evills, to dispell those clouds which hover be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wixt the King and his highest Counsell, to chase away all jealousies, and umbrages of mistrust, that that great law making Court, be forced no more to turne to polemicall Committees, and to a counsell of warre; but that they may come againe to the old Parliamen<g ref="char:EOLhyphen"/>tary roade, to the path of their predecessors, to consult of meanes how to sweepe away those cobwebs that hang in the Courts of Justice, and to make the Lawes runne in their right channell, to retrench excessive fees, and to finde remedy for the future, that the poore client be not so peeled by his Law<g ref="char:EOLhyphen"/>yer, and made to suffer such monstrous delaies, that one may
+<pb n="4" facs="tcp:114504:4"/> goe from one Tropick to the other, and Crosse the Equinocti<g ref="char:EOLhyphen"/>all twenty times before his suite be done: that a way may be thought on to regulate all exorbitant fancies of Novelists, in the exercise of holy Religion: for where there is no obedience subordination, and rest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ictive Lawes to curbe the changeable humours and ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ravagancies of men, there can be no peace or piety: if the fite be not kept within the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unnell of the chimney, and that some be appointed to sweepe downe the soote (which may be done otherwise then by shooting up of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uskets) the whole house will be in danger of burning. That things have beene so strangely carryed, and remaine still in as strange a posture, is no wonder to me, what ever the vulgar prattle; your Excellency I am sure is well skilled in li<g ref="char:EOLhyphen"/>be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all Acts, and have deigned to honour learning, by taking of a degree, if your Excellency consider with me, the consti<g ref="char:EOLhyphen"/>tution of this ellementary world, whereof I finde man to be part; when I thinke on those light and changeable ingredi<g ref="char:EOLhyphen"/>ents,<note place="margin">A reason given ac<g ref="char:EOLhyphen"/>cording to na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure, why wee ought not to wonder at these strange times.</note> that goe to his composition; I conclude, that men will be men, while there is a world, and as long as the Moone hath an influxious power, to make impressions upon their humon<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, they will be ever greedy, and covetous of novelties, and mutation, the common people, will still be com<g ref="char:EOLhyphen"/>mon people they will sometime or other, shew what they are, and vent their instable passions; and when I consider further, the distractions, the tossings, turmoilings and tumblings of o<g ref="char:EOLhyphen"/>ther Regions: I conclude that Kingdomes, and States, and Cities, and all bodies politick are subject to convulsions, to ca<g ref="char:EOLhyphen"/>lentures, and consumptions, as well as the fraile bodies of men, and must have an evacuation for their corrupt humors; they must be p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ebotomized; these troubles that wee of late have seene, is but <hi>vetus Fabula, novi Histriones,</hi> is but an old play re<g ref="char:EOLhyphen"/>presented by new Actors; therfore let no man wonder at these traverses, and humours of change. I have reade there was as much wondring at the demolishing of 600. and odde <hi>Mona<g ref="char:EOLhyphen"/>steries, Nuneries,</hi> and <hi>Abeis,</hi> for being held to be hives of drones, as there is now at the pulling downs of Crosses, Organs, and Windowes; there was as much wondring when the Pope fell then▪ as at the Prelates fall now: the world wondred as much
+<pb n="5" facs="tcp:114504:4"/> when the Masse was misliked, as men wonder now the Litur<g ref="char:EOLhyphen"/>gy<note place="margin">King Henry <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 8. his Re<g ref="char:EOLhyphen"/>formati<g ref="char:EOLhyphen"/>on.</note> should be distasted: the first reformation of the Church of England began at Court, and so was the more feasable, and it was brought to passe without a warre; but in this late attemp<g ref="char:EOLhyphen"/>ted Reformation, the sceane was otherwise, far<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more sangui<g ref="char:EOLhyphen"/>nary, and fuller of Actors; never had a Trag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy acts more full of variety; in so short a time; there was never such a confused mysterious civill warre, there was never so many bodies of strength on sea or shore, never such choice Armes and Artil<g ref="char:EOLhyphen"/>lery, never such a numerous Cavalty on both sides, never a grea<g ref="char:EOLhyphen"/>ter eagernesse and confidence, never such an amphibolous quarrell, both parties declaring themselves for the King, and making use of his name in all their Remonstrances, to j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st fie their Actions, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffections and understandings of the people were never so confounded and puzled, not knowing where to acquiesse: insomuch that whosoever will be curious to reade the fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure story of this intricate warre (if it be possi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le to com<g ref="char:EOLhyphen"/>pile a story of it) he will finde himselfe much staggered, and put to a kinde of riddle▪ for touching the strange nature, or ra<g ref="char:EOLhyphen"/>ther unnaturallnesse of it cannot be parralled by any prece<g ref="char:EOLhyphen"/>dent example, nor can any history afford that in so short a cir<g ref="char:EOLhyphen"/>cumvolution of time, so many battailes, reincounters, siedges, and skirmishes together have hapned in any countrey, and all this upon our selves, which to relate is the more terrible; but your Excellency have by the Almighties apparant assistance brought our civill warre to a period; so that now nothing is wanting, but the fruits of that for which wee have toiled in blood and sweat: I beseech your Excellency to be pleased to hearken to the advise of none but those that are calme spirited, and peaceable, and that your Excellency would be pleased, not to look on those Members now fitting in Parliament, who refuse to declare their former votes null, as yours and the Ar<g ref="char:EOLhyphen"/>mies enemies, according as it is said in the Remonstrance, pag▪ 5. And next wee wish those men to consider if wee had come to an engagement with the forces rais<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by vertue of their pretended Vo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and Ordinances, and that thousands had beene slaine, and wee had made our way by the sword, whe<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:114504:5"/> they would then have expected to have sate as Judges on us therein; and wee are sure it is no thankes to them that it hath beene otherwise: and had wee sound those Members in armes against us, and subdued and taken them; whether had they not then been in the condition of prisoners of warre? &amp;c. considering that they themselves were overawed, and in a manner forced to vote a leavy for Souldiers, which if your Ex<g ref="char:EOLhyphen"/>cellency shall please to doe, you shall thereby hinder infinite vexations which may happen by a forcible expulsion of them; and also by your clemency reclaime them unto you; where<g ref="char:EOLhyphen"/>by time may be no longer protracted, but his Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty speedily setled, true Religion erected, and this Kingdome once more in<g ref="char:EOLhyphen"/>joy her halcion dayes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
